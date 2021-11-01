@@ -1,0 +1,123 @@
+body {
+  background: #262b30;
+  margin: 3rem;
+  padding: 2rem;
+  max-width: 800px;
+  max-height: 750px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  border: 3.5px solid plum
+}
+
+nav {
+	border-bottom: 2px solid  #d6d6d6;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: #d6d6d6;
+}
+
+a:visited {
+	color: #d6d6d6;
+}
+input {
+	display: block;
+}
+
+
+h2 {
+		display: block;
+		font-size: 1.25em;
+		margin-top: 0.83em;
+		margin-bottom: 0.83em;
+		margin-left: 0;
+		margin-right: 0;
+		font-weight: bold;
+		color:#d6d6d6;
+}
+
+h1{
+	display: block;
+	font-size: 1.7em;
+	margin-top: 0.75em;
+	margin-bottom: 0.60em;
+	margin-left: 0;
+	margin-right: 0;
+	font-weight: bold;
+	color: #d6d6d6;
+	background-color:orchid
+}
+
+h4{
+	color: #d6d6d6;
+	font-size: 1.3em;
+
+
+}
+
+p{
+	color: #d6d6d6;
+}
+
+ul{
+	color: #d6d6d6;
+}
+
+form{
+	color: #d6d6d6;
+}
+
+h3{
+color:#d6d6d6;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-left: 0px;	
+}
+
+.container{
+	margin:150px auto;
+	width: 50%;
+	padding: 8px;
+}
+
+img{
+	float:left;
+	width: 200px;
+	height:225px;
+	padding:0 10px 0 0;
+	border: 0px mediumpurple;
+}
+
+.text{
+	text-align: justify;
+	font-family:'Times New Roman', Times, serif;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.colorClass{
+	width: 200px;
+	height:35px;
+	background-color:yellow
+}
+
+.placeClass{
+	width: 200px;
+	height:35px;
+	background-color:yellow
+}
+
+.ritualClass{
+	width: 200px;
+	height:35px;
+	background-color:yellow
+}

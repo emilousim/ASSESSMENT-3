@@ -1,0 +1,4 @@
+How does the internet work?
+
+    The internet is a super complex system. Even though it may seem   like we can just click on something an be there in a few seconds flat, there's actually a great deal of work going on in the bakground to get you to your destination. There are a couple different steps that the web goes through to get you where you need to be. 
+        The first step is clicking a link. Once you've done that, you're on you way. The second step is when the server you're on receives the request to go to wherever you're trying to go. The third step is when the server produces HTML in response to the request. Following that, the response is received. Once this happens, your browser renders all of the HTML, and there you are, at your website of choice.
